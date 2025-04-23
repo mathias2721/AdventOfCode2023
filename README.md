@@ -1,3 +1,17 @@
 # AdventOfCode2024
 
-Results are in each repository
+Day1:
+2000468
+18567089
+
+Day2:
+598
+634
+
+Day3:
+187194524
+127092535
+
+Day4:
+2646
+2000
