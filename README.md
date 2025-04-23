@@ -1,1 +1,3 @@
-# AdventOfCode2023
+# AdventOfCode2024
+
+Results are in each repository
