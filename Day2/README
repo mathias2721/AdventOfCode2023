@@ -1,0 +1,6 @@
+Command
+python3 main.py
+
+Result
+Number of safe report :  598
+Number of safe report with 1 tolerance:  634

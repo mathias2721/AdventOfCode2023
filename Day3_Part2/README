@@ -1,0 +1,6 @@
+Command
+g++ -o main main.cpp
+./main
+
+Result:
+The Result is: 127092535

@@ -1,0 +1,7 @@
+Command:
+g++ -o main main.cpp
+./main
+
+Result
+Distance : 2000468
+Similarity Score: 18567089
